@@ -32,5 +32,5 @@ Thumbs.db
 # *.png
 # *.jpeg
 
-# Screenshots folder (add files manually when ready)
-screenshots/
+# Screenshots folder
+# screenshots/
